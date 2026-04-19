@@ -28,7 +28,7 @@ twitter_username: u_long_long
 github_username:  enoch02
 permalink: /:title/
 markdown: kramdown
-paginate: 5
+paginate: 10
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
 
