@@ -95,7 +95,7 @@ fun main() {
 ```
 
 
-### 3. Run the script
+### 3. Run the program
 
 Compile and run with Gradle:
 
